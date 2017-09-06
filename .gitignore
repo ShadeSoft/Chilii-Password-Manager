@@ -1,0 +1,11 @@
+###> symfony/framework-bundle ###
+/.idea/
+.env
+/public/bundles/
+/public/assets/node_modules/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+###> symfony/web-server-bundle ###
+.web-server-pid
+###< symfony/web-server-bundle ###
